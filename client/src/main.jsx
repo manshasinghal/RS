@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
   clientId="xpHXhAtzyIJw24hxiMKjaw60tRvI09Ft"
   authorizationParams={
   {
-    redirect_uri:"http://localhost:5173"
+    redirect_uri:"https://rs-neeq.vercel.app"
   }}
   audience="http://localhost:8000"
    scope="openid profile email">
